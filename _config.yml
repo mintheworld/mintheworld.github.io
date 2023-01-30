@@ -19,8 +19,8 @@ locale                   : "en-GB"
 title                    : "M in the world"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "M in the world"
-description              : "Today I learnt"
+name                     : "Today I learnt"
+description              : "Data scientist"
 url                      : "https://mintheworld.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ author:
   name             : "M in the world"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Today I learnt"
-  location         : "Somewhere"
+  location         : "United Kingdom"
   email            :
   links:
     - label: "Email"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/mintheworld"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/_m_in_the_world_"
 
 # Site Footer
 footer:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/mintheworld"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/_m_in_the_world_"
 
 
 # Reading Files
