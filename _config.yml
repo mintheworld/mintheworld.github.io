@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "M in the world"
+  name             : "M in the UK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Today I learnt"
+  bio              : "Data Scientist"
   location         : "United Kingdom"
   email            :
   links:
