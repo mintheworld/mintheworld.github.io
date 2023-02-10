@@ -1,7 +1,9 @@
 ---
-layout: single
-title: "어쩌다 데이터 사이언스"
-categories: "thoughts"
+title: "소개"
+layout: intro
+permalink: /intro/
+author_profile: true
+sidebar_main: true
 ---
 
 안녕하세요. 영국에서 자연어 처리 (NLP; Natural Language Processing) 데이터 사이언티스트로 근무하고 있는 M입니다. 어쩌다 보니 소위 말하는 비전공자로서 데이터 사이언스 분야로 커리어 전환을 해서 일을 시작하게 되었는데, 일하는 분야가 재밌어서 이 분야에 관심이 있는 분들께 소개하고 싶다는 생각이 들었습니다. 일단 다음과 같은 이야기를 공유해 보려고 합니다.
@@ -11,4 +13,3 @@ categories: "thoughts"
 - 영국 생활 이야기
 
 제가 풀어나갈 이야기가 누군가에게 도움이 되었으면 좋겠습니다. 피드백은 언제든지 댓글로 부탁드릴게요. 그럼 잘 부탁드립니다!
-
