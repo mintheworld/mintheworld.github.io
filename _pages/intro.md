@@ -1,9 +1,7 @@
 ---
-title: "소개"
+title: "어쩌다 데이터 사이언스"
 layout: single
 permalink: /intro/
-author_profile: true
-sidebar_main: true
 ---
 
 안녕하세요. 영국에서 자연어 처리 (NLP; Natural Language Processing) 데이터 사이언티스트로 근무하고 있는 M입니다. 어쩌다 보니 소위 말하는 비전공자로서 데이터 사이언스 분야로 커리어 전환을 해서 일을 시작하게 되었는데, 일하는 분야가 재밌어서 이 분야에 관심이 있는 분들께 소개하고 싶다는 생각이 들었습니다. 일단 다음과 같은 이야기를 공유해 보려고 합니다.
