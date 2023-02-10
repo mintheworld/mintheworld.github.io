@@ -1,6 +1,6 @@
 ---
 title: "소개"
-layout: intro
+layout: single
 permalink: /intro/
 author_profile: true
 sidebar_main: true
