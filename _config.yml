@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "어쩌다 데이터 사이언스"
   avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "영국 NLP 데이터 사이언티스트 | 커리어 전환"
-  location         : "United Kingdom"
+  bio              : "NLP 데이터 사이언티스트"
+  location         : "영국"
   email            :
   links:
     - label: "Email"
