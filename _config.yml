@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : # "en-GB"
 title                    : "M in the World"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "어쩌다 데이터 사이언스"
   avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NLP 데이터 사이언티스트"
-  location         : "영국"
+  bio              : "데이터 사이언티스트"
+  location         : 
   email            :
   links:
     - label: "Email"
